@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Sinha 👋
 
-BCA Graduate | Aspiring Data Analyst
+BCA Graduate | Aspiring Junior Software Engineer|Data/Business Analyst
 
 I'm a recent BCA graduate interested in Data Analysis, Data Validation,
 SQL, Excel, and database-driven applications.
