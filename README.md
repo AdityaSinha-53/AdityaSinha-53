@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Aditya Sinha 👋
 
-<!--
-**AdityaSinha-53/AdityaSinha-53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a recent BCA graduate interested in Data Analysis, Data Validation,
+SQL, Excel, and database-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SQL / MySQL / Oracle
+- Microsoft Excel
+- Data Analysis
+- Data Validation
+- Python
+- C++
+- C#
+- PHP
+- HTML / CSS / JavaScript
+- Database Management Systems
+
+## Featured Project
+
+### BudgetWise – Personal Finance Tracker
+
+A PHP and MySQL-based personal finance management application
+developed as my BCA final-year major project.
+
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+
+[View Project](https://github.com/AdityaSinha-53/BudgetWise-Personal-Finance-Tracker)
+
+## Currently Learning
+
+- Advanced Excel
+- SQL
+- Data Analysis
+- Business Analysis
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/aditya-sinha-519702328/)
