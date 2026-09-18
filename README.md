@@ -31,10 +31,11 @@ developed as my BCA final-year major project.
 
 ## Currently Learning
 
+- AI/ML 
 - Advanced Excel
 - SQL
 - Data Analysis
-- Business Analysis
+- Business Analysis with Gen & Agentic AI
 
 ## Connect With Me
 
